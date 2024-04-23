@@ -1,5 +1,5 @@
 # Projects Portfolio
-* Self-navigating robot[Self-navigating robot] (https://github.com/gib-student/mapping-robot)
+* [Self-navigating robot] (https://github.com/gib-student/mapping-robot)
 * [Solar Power Company Website] (https://github.com/gib-student/wdd230-final-project/tree/main)
 * [GIS Website of Yellowstone] (https://github.com/gib-student/GIS-webpage--learn)
 * [Networking using Socket.io] (https://github.com/gib-student/Comp-networking--learn)
