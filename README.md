@@ -6,4 +6,4 @@
 * [Cloud Database & Database Management System] (https://github.com/gib-student/Cloud-database--learn/blob/master/README.md
 * [SQL Database Management System] (https://github.com/gib-student/SQL-database)
 * [Video Game using Object-oriented programming] (https://github.com/gib-student/colony-builder)
-* 4-bit Processor (https://www.youtube.com/watch?v=mmqEKYUMshg)
+* [4-bit Processor] (https://www.youtube.com/watch?v=mmqEKYUMshg)
