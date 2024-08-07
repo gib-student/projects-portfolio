@@ -1,4 +1,4 @@
-# Projects Portfolio
+# Trevor Gibb's Projects Portfolio
 * [React Web App](https://github.com/gib-student/medical-office-nextui-app?tab=readme-ov-file) [(Direct Website link)](https://medical-office-nextui-app.web.app/)
 * [Self-navigating robot](https://github.com/gib-student/mapping-robot)
 * [Solar Power Company Website](https://github.com/gib-student/wdd230-final-project/tree/main)
